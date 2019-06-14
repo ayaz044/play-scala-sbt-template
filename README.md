@@ -1,0 +1,1 @@
+A template for starting new project with Play, Scala, Sbt
